@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\repository\інформаційна модель\Source.cpp(17,27): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  інформаційна модель.vcxproj -> D:\repository\інформаційна модель\Debug\інформаційна модель.exe
